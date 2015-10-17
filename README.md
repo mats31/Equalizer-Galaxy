@@ -5,7 +5,7 @@ Demo available [here](http://www.mathis-biabiany.fr/webgl/equalizer/).
 
 #### Technologies :
 * ThreeJs
-* Shaders
+* GLSL
 * Web Audio Api
 
 #### Setup from the [boilerplate](https://github.com/vdaguenet/threejs-starter-kit) of [vdaguenet](https://github.com/vdaguenet)  :

@@ -1,7 +1,7 @@
 # Equalizer-Galaxy
 A WebGL experiment based on Three.js, some Shaders and the web audio API. I play with vertices from Buffer Geometry to make Points Objects as Particle System. The colors react to the average of the sound frequency.
 
-Demo available [here](http://www.mathis-biabiany.fr/webgl/equalizer/).
+Demo available on the crma promotion of 2016 website (Gobelins school at Paris) [here](http://workshop.crma2016.gobelins.fr/).
 
 #### Technologies :
 * ThreeJs
